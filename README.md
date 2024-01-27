@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)]
+![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)
 <h1 align="center">Hi 👋, I'm Aravindh Veeragoni</h1>
 <h3 align="center">I'm a passionate full-stack developer with expertise in responsive web applications </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
